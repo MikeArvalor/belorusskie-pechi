@@ -1,0 +1,8 @@
+@charset "UTF-8";
+.img_gal1 {
+  background: url(../img/печь_чугунная_дверь.jpg), no-repeat, center;
+  background-size: 100%;
+  width: 100%;
+  height: 350px;
+  position: relative;
+}

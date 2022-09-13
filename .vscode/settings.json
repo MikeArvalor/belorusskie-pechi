@@ -1,0 +1,21 @@
+{
+    "workbench.colorTheme": "Material Theme",
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 14,
+    "editor.hover.enabled": false,
+
+    "liveSassCompile.settings.generateMap" : false,
+    "liveSassCompile.settings.formats" : [
+        {
+            "format" : "expanded",
+            "autoprefix" : "last 5 versions",
+            "extensionName": ".css",
+            "savePath": "css"
+        }
+    ],
+    "launch": {
+    
+        "configurations": [],
+        "compounds": []
+    },
+}
